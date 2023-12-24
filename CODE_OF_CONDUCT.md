@@ -33,6 +33,5 @@ issues, and other contributions that are not aligned to this Code of Conduct, or
 or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
 ## Contact
-If you feel uncomfortable or believe that someone has violated the code of conduct, p
-lease contact us at [admin@tada5hi.net](mailto:admin@tada5hi.net). 
+If you feel uncomfortable or believe that someone has violated the code of conduct, please contact us at [admin@tada5hi.net](mailto:admin@tada5hi.net). 
 We will thoroughly investigate the incident and aim for the best possible outcome.
